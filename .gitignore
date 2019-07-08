@@ -1,0 +1,17 @@
+# node
+node_modules/
+npm-debug.log
+
+# dotenv
+.env
+
+# code coverage reports
+coverage
+.nyc_output
+
+# Other file
+.DS_Store
+
+# build - TODO: currently the build process failes with AWS Code Pipeline, this is needed until Travis is configured.
+# build/
+
